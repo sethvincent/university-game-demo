@@ -120,7 +120,7 @@ u.levels.twoAC = u.level.extend({
   id: 'level-two-a-c',
 
   content: function(){
-    return 'Ainsley thought about things being hidden, about rocks under ground. She thought about her rock. <span id="twoAC" class="next">could have been</span> stars.'
+    return 'Ainsley thought about things being hidden, about rocks under ground. <span id="threeB" class="next">She thought about her rock</span>.'
   }
 });
 
