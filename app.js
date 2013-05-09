@@ -200,7 +200,7 @@ u.levels.ten = u.level.extend({
   id: 'level-ten',
 
   content: function(){
-    return 'The <span id="eleven" class="next">boulders</span> even had a red tint, like the caps of the mushrooms.'
+    return 'The <span id="eleven" class="next">boulders</span> even have a red tint, like the caps of the mushrooms.'
   }
 });
 
